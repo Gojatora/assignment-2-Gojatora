@@ -2,7 +2,7 @@
 
 This is the final code that was written from the provided chunk of code:
 
-![image alt]([image_url](https://github.com/Gojatora/assignment-2-Gojatora/blob/eb9aea529431827f2912bfb41c2521ccdaad8cda/Code%20Screenshot.png))
+![image alt](https://github.com/Gojatora/assignment-2-Gojatora/blob/eb9aea529431827f2912bfb41c2521ccdaad8cda/Code%20Screenshot.png)
 
 Output:
 
